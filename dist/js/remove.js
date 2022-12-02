@@ -1,0 +1,1 @@
+var div = document.querySelectorAll('div');div[div.length-1].parentNode.removeChild(div[div.length-1]);
